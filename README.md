@@ -1,4 +1,4 @@
-# MDT-Task-Sequence-Debugger
+# MDT Task Sequence Debugger
 Task Sequence Debugger for MDT
 
 ![alt text](https://github.com/damienvanrobaeys/MDT-Task-Sequence-Debugger/blob/master/preview.gif)
